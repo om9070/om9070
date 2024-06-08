@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **medSpell**
+- 🔭 I’m currently working on **Wizcart**
 
 - 🌱 I’m currently learning **Angular-js**
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://opresume.herokuapp.com/](https://opresume.herokuapp.com/)
 
-- 💬 Ask me about **React-js, Node-js, Mongodb, Css,bootstrap, mySqli**
+- 💬 Ask me about **React-js, Node-js, Mongodb, CSS, Bootstrap, MySQL,MongoDB , Typescript**
 
 - 📫 How to reach me **om70796790@gmail.com**
 
